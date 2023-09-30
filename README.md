@@ -1,4 +1,4 @@
-# WebWindowExplorer
+# Web Window Explorer
 Webbased windows file explorer management 
 
 ## Introduction
