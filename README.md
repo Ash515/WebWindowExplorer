@@ -4,7 +4,7 @@ Webbased windows file explorer management
 ## Introduction
 Web window explorer is an software system for managing all the windows file explorer files on web.
 
-##Technologies
+## Technologies
 ### Frontend 
 - JSP/Html,CSS,JS
 ### Backend
