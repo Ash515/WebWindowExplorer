@@ -11,6 +11,5 @@ Web window explorer is an software system for managing all the windows file expl
 - Servlets
 - Postgresql
 
-###
-Contributors
+### Contributors
 - Ashwin Kumar R
